@@ -1,0 +1,3 @@
+uv
+ollama
+streamlit
